@@ -1,2 +1,2 @@
 # pyviz
-geo project
+Geographic Project
